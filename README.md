@@ -1,4 +1,4 @@
-🍽️ Food Recognition and Calorie Estimation Model
+#🍽️ Food Recognition and Calorie Estimation Model
 
 A deep learning-based project that identifies food items from images and estimates their calorie content. This system helps users track their diet and nutritional intake simply by uploading a food image.
 
